@@ -1,0 +1,24 @@
+Name: Alseny Diallo
+Email: Alsenidiallo@live.com
+
+Files included:
+---------------
+- rot90.cpp (algorithm for rotating string)
+- README
+
+Project description: 
+--------------------
+For this project you will write a simple C++ program rot90 that will read text input from stdin
+and write a “rotated” version to stdout:
+$ printf "hello\nworld\n" | ./rot90
+wh
+oe
+rl
+ll
+do
+
+Build & Run
+-----------
+type the command make (which will execute the compile"
+
+run: printf "What stands\nin the way\nbecomes\nthe way\n" | ./rot90
